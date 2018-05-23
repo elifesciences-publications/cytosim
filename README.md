@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Bun et al., "A disassembly-driven mechanism explains F-actin-mediated chromosome transport in starfish oocytes". eLife, 2018. http://dx.doi.org/10.7554/eLife.31469
+
+
 # Cytosim
 
 ## Description
